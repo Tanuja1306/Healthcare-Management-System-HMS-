@@ -85,34 +85,33 @@ Create a system with a simple interface that needs limited keyboard input from u
 ![image](https://github.com/user-attachments/assets/ef9aba99-a90e-4374-8dcc-444cb84ed7a6)
 
 **Dashboard 2**
-
-
-
-**Dashboard With Reducers**
-
-
+![image](https://github.com/user-attachments/assets/ab28a1d4-5564-4408-a54f-a861580b54bf)
 
 **Register Users**
 
-
+![image](https://github.com/user-attachments/assets/35002243-d024-4b57-8b18-941b7822ac0e)
 
 **List Users**
 
-
+![image](https://github.com/user-attachments/assets/960d92aa-dbd8-454b-80c4-839560205ab4)
 
 
 **Patient Details**
 
+![image](https://github.com/user-attachments/assets/b2982689-ffe9-404e-b413-8b5866e99d52)
 
 
 **Doctors Details**
 
+![image](https://github.com/user-attachments/assets/061ba3c5-40c4-4355-bd33-5af581f47d0c)
 
 
 **Add Expense**
 
-![](https://github.com/Kennedy-Njeri/hospital-management-system/blob/master/screen/addExpense.png)
+![image](https://github.com/user-attachments/assets/dc75a6e1-6bef-49f5-a37a-1fec91097968)
+
 
 **Update Expense**
 
-![](https://github.com/Kennedy-Njeri/hospital-management-system/blob/master/screen/updateExpense.png)
+![image](https://github.com/user-attachments/assets/4af16247-a6d9-40d2-9151-2b5c31fe8224)
+
